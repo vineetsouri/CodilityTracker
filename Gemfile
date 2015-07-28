@@ -24,6 +24,7 @@ group :development, :test do
 
 
   gem 'spring'
+  gem 'dotenv-rails'
 end
 
 group :development do
@@ -35,4 +36,3 @@ gem 'bootstrap-sass'
 gem "font-awesome-rails"
 gem 'devise'
 gem 'omniauth-facebook'
-gem 'dotenv-rails'
